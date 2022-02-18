@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "48b19d25-dba8-492e-af21-1b39b652b938": {
+      "ProjectGuid": "48b19d25-dba8-492e-af21-1b39b652b938",
+      "DisplayName": "TrackerLibrary",
+      "ColorIndex": 0
+    },
+    "540af865-ac21-4c9b-8616-c10b7fb6d9ee": {
+      "ProjectGuid": "540af865-ac21-4c9b-8616-c10b7fb6d9ee",
+      "DisplayName": "TrackerUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
